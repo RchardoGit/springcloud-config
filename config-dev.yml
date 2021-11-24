@@ -17,4 +17,4 @@ feign:
   circuitbreaker:
     enabled: true
 config:
-    info: http://eureka3355.com:3355/eureka
+  info: http://eureka3355.com:3355/eureka
